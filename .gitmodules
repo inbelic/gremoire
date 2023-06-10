@@ -1,0 +1,9 @@
+[submodule "gremoire-game"]
+	path = gremoire-game
+	url = https://github.com/inbelic/gremoire-game.git
+[submodule "gremoire-client"]
+	path = gremoire-client
+	url = https://github.com/inbelic/gremoire-client.git
+[submodule "gremoire-server"]
+	path = gremoire-server
+	url = https://github.com/inbelic/gremoire-server.git
